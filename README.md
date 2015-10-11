@@ -38,6 +38,12 @@ Users must be able to create Snippets, but not be allowed to save them unless th
 ### Phase 3: Javascript execution in the browser (3 days)
 
 A user should be able to hit a 'run' button below their snippet, and as a result the javascript evaluation of the snippet should be displayed at a second window in the screen, much like [Repl.it][replit]
-This is the more unique part of my app, and I want to make sure to 
+This is the more unique part of my app, and I want to make sure to make this work as well as possible. I think it is feasible to do with good preparation, a weekend in between, and help from mentor and TAs.
 
 [replit]: https://repl.it/languages/javascript
+
+### Phase 4: Syntax Highlighting (1 day)
+
+Using something like [CodeMirror][codemirror] or [Highlight][highlight], 
+[codemirror]: https://codemirror.net/
+[highlight]: https://highlightjs.org/
