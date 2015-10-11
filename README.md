@@ -11,7 +11,7 @@ CodeSven is a tool to play around with Javascript in the browser. It is inspired
 CodeSven allows users to:
 
 - [ ] Create and read javascript snippets
-- [ ] Execute these javascript snippets
+- [ ] Execute these javascript snippets in the browser
 - [ ] Create an account
 - [ ] Log in and log out
 - [ ] Sign up or log in to save, edit and delete snippets
